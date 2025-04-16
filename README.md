@@ -70,50 +70,49 @@
 ### 🧰 Languages and Tools
 
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="padding:10px;" />
+  <a href="https://www.cprogramming.com/" target="_blank" style="margin-right: 15px; display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin: 10px; background-color: #2d333b; border-radius: 5px; padding: 5px;" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="padding:10px;" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="margin-right: 15px; display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin: 10px; background-color: #2d333b; border-radius: 5px; padding: 5px;" />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="padding:10px;" />
+  <a href="https://www.typescriptlang.org/" target="_blank" style="margin-right: 15px; display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin: 10px; background-color: #2d333b; border-radius: 5px; padding: 5px;" />
   </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" style="padding:10px;" />
+  <a href="https://reactjs.org/" target="_blank" style="margin-right: 15px; display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" style="margin: 10px; background-color: #2d333b; border-radius: 5px; padding: 5px;" />
   </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" style="padding:10px;" />
+  <a href="https://nodejs.org/" target="_blank" style="margin-right: 15px; display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" style="margin: 10px; background-color: #2d333b; border-radius: 5px; padding: 5px;" />
   </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40" style="padding:10px; background-color:white; border-radius:6px;" />
+  <a href="https://expressjs.com/" target="_blank" style="margin-right: 15px; display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40" style="margin: 10px; background-color: white; border-radius: 5px; padding: 5px;" />
   </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" style="padding:10px;" />
+  <a href="https://www.mongodb.com/" target="_blank" style="margin-right: 15px; display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" style="margin: 10px; background-color: #2d333b; border-radius: 5px; padding: 5px;" />
   </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" style="padding:10px;" />
+  <a href="https://www.mysql.com/" target="_blank" style="margin-right: 15px; display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="margin: 10px; background-color: #2d333b; border-radius: 5px; padding: 5px;" />
   </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" style="padding:10px;" />
+  <a href="https://www.postgresql.org/" target="_blank" style="margin-right: 15px; display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" style="margin: 10px; background-color: #2d333b; border-radius: 5px; padding: 5px;" />
   </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" style="padding:10px;" />
+  <a href="https://pandas.pydata.org/" target="_blank" style="margin-right: 15px; display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" style="margin: 10px; background-color: #2d333b; border-radius: 5px; padding: 5px;" />
   </a>
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40" style="padding:10px;" />
+  <a href="https://pytorch.org/" target="_blank" style="margin-right: 15px; display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40" style="margin: 10px; background-color: #2d333b; border-radius: 5px; padding: 5px;" />
   </a>
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" style="padding:10px;" />
+  <a href="https://www.tensorflow.org/" target="_blank" style="margin-right: 15px; display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" style="margin: 10px; background-color: #2d333b; border-radius: 5px; padding: 5px;" />
   </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="padding:10px;" />
+  <a href="https://www.linux.org/" target="_blank" style="margin-right: 15px; display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="margin: 10px; background-color: #2d333b; border-radius: 5px; padding: 5px;" />
   </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" style="padding:10px;" />
+  <a href="https://git-scm.com/" target="_blank" style="margin-right: 15px; display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin: 10px; background-color: #2d333b; border-radius: 5px; padding: 5px;" />
   </a>
 </p>
-
 ---
 
 📌 *Always open to collaboration, innovation, and impactful work!*
