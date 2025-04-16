@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalkulkarni-07&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalkulkarni-07" /> </p>
 
-- 🎓 Final year engineering student passionate about software development, data science, and AI.
+- 🎓 Final year engineering student passionate interested in web development, data science and AI.
 
 - 🌱 I’m currently learning **React**
 
