@@ -37,19 +37,12 @@
   🖼️ Dataset: 7-class image classification  
   🔬 Currently training and evaluating performance using Google Colab.
 
-#### 🧠 Big Data Analytics
-- **📊 Flight Price Prediction**  
-  Used a 5M+ record dataset from Kaggle, processed using Hadoop and MapReduce for average price analytics.  
-  👨‍💻 Tools: HDFS, IntelliJ, Custom JAR for MR jobs
 
-- **📈 Analysis of Factors Influencing Flight Operations and Traffic Patterns**  
-  Investigated flight traffic trends using Big Data pipelines.
-
-#### 🌍 Web & Social Impact
+#### 🌍 Impact Bridge
 - **🌐 NGO-Philanthropist Bridge Portal**  
-  A Java-based web app aimed at connecting NGOs and donors, targeting **UN SDG Goal 1: No Poverty**.  
+  A web app aimed at connecting NGOs and donors, targeting **UN SDG Goal 1: No Poverty**.  
   🔗 Features: Donor dashboard, project funding tracker  
-  💡 Goal: Promote transparency and drive social change.
+  💡 Goal: Help donors and NGOs collaborate on a platform and contribute to change.
 
 #### 🛡️ Hackathons & Competitions
 - 🧠 **Hack2Future (IIIT Dharwad)** – Finalist among 400+ teams  
@@ -85,11 +78,6 @@
   <a href="https://nodejs.org/" target="_blank" style="margin-right: 15px; display: inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" style="margin: 10px; background-color: #2d333b; border-radius: 5px; padding: 5px;" />
   </a>
-  <a href="https://expressjs.com/" target="_blank" style="margin-right: 15px; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40" style="margin: 10px; background-color: white; border-radius: 5px; padding: 5px;" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" style="margin-right: 15px; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" style="margin: 10px; background-color: #2d333b; border-radius: 5px; padding: 5px;" />
   </a>
   <a href="https://www.mysql.com/" target="_blank" style="margin-right: 15px; display: inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="margin: 10px; background-color: #2d333b; border-radius: 5px; padding: 5px;" />
@@ -99,9 +87,6 @@
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" style="margin-right: 15px; display: inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" style="margin: 10px; background-color: #2d333b; border-radius: 5px; padding: 5px;" />
-  </a>
-  <a href="https://pytorch.org/" target="_blank" style="margin-right: 15px; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40" style="margin: 10px; background-color: #2d333b; border-radius: 5px; padding: 5px;" />
   </a>
   <a href="https://www.tensorflow.org/" target="_blank" style="margin-right: 15px; display: inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" style="margin: 10px; background-color: #2d333b; border-radius: 5px; padding: 5px;" />
