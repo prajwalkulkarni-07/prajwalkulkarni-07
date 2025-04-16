@@ -98,6 +98,5 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin: 10px; background-color: #2d333b; border-radius: 5px; padding: 5px;" />
   </a>
 </p>
----
 
-📌 *Always open to collaboration, innovation, and impactful work!*
+---
