@@ -11,9 +11,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available on my [GitHub](https://github.com/prajwalkulkarni-07)
-
-- 📫 How to reach me **mkprajwal07@gmail.com**
+- 📫 My Email ID: **mkprajwal07@gmail.com**
 
 ---
 
